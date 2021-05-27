@@ -15,6 +15,10 @@ public class Main {
 		int multi, num3=6, num4=5;
 		multi=num3*num4;
 		System.out.println(multi);
+		
+		int div, num6=6, num7=5;
+		div=num6*num7;
+		System.out.println(div);
 	}
 
 }
