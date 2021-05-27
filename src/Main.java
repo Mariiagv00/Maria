@@ -7,7 +7,9 @@ public class Main {
 
 	public static void main(String[] args) {
 		// TODO Apéndice de método generado automáticamente
-
+		int suma, num1=4, num2=3;
+		suma=num1+num2;
+		System.out.println(suma);
 	}
 
 }
